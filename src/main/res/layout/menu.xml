@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="COLOUR REACTION CHALLENGE"
+        android:textSize="24sp"
+        android:gravity="center_vertical"
+        android:layout_margin="16dp"/>
+
+    <Button
+        android:id="@+id/start_game_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Game"
+        android:background="@color/buttonBG"
+        android:layout_margin="16dp"/>
+
+    <Button
+        android:id="@+id/high_scores_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="High Scores"
+        android:background="@color/buttonBG"
+        android:layout_margin="16dp"/>
+
+    <Button
+        android:id="@+id/quit_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Quit"
+        android:background="@color/buttonBG"
+        android:layout_margin="16dp"/>
+
+</LinearLayout>

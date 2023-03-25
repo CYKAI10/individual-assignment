@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="notificationBarColor">#7fc6db</color>
+    <color name="titleColor">#659EAF</color>
+    <color name="colorAccent">#7fc6db</color>
+    <color name="instrTitleColor">#FF0000</color>
+    <color name="loss_message_color">#FF0000</color>
+    <color name="startColor">#FFFFFF</color>
+    <color name="buttonBG">#44a4ee</color>
+    <color name="optionBG">#FFFFFF</color>
+    <color name="go_message">#149014</color>
+    <color name="new_record">#149014</color>
+    <color name="clear_message">#149014</color>
+    <color name="reset_stats_bg">#FF0000</color>
+    <color name="reset_stats_text">#FFFFFF</color>
+    <color name="view_history_color">#f0e130</color>
+    <color name="history_title">#FF0000</color>
+    <color name="history_header">#000000</color>
+    <color name="highlighted">#FF1111</color>
+    <color name="Blue">	#89CFF0</color>
+
+    <color name="records_value_color">#FF0000</color>
+    <color name="records_title_color">#80766a</color>
+</resources>
